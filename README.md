@@ -1,4 +1,4 @@
-# Backspace Minimal - AI Coding Agent
+# CodeAssist Minimal - AI Coding Agent
 
 A powerful Python FastAPI application that functions as an AI coding agent powered by Google's Gemini Flash 1.5 model. This application exposes a streaming API endpoint that accepts a public GitHub repository URL and a natural language prompt, then automatically clones the repo, uses AI to make the requested code changes, and creates a pull request on GitHub.
 
@@ -275,4 +275,4 @@ For additional support, please open an issue on GitHub.
 
 ---
 
-**Made with care by the Backspace Team**
+**Made with care by Sanchita Kiran**

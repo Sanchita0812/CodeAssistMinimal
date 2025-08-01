@@ -183,3 +183,13 @@ logs/
 repos/
 temp_repos/
 cloned_repos/
+
+myenv/
+.myenv/
+.env/
+env/
+# Ignore Python cache files and folders
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
